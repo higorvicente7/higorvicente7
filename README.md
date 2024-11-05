@@ -27,4 +27,4 @@
 	Design Patterns,
 	Microservices,
 	NoSQL ];
-[LinkedIn](www.linkedin.com/in/higor-vicente-34a782251)
+[LinkedIn](www.linkedin.com/in/higor-vicente)
