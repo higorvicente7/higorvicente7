@@ -25,5 +25,4 @@ Estudando: [
 	Mockito,
 	Design Patterns,
 	Microservices,
-  NoSQL
-]
+	NoSQL];
