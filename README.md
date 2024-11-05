@@ -1,6 +1,8 @@
-👋 Olá! Sou estudante de Ciência da Computação com foco em desenvolvimento de software. Tenho uma forte paixão por programação e estou em busca de oportunidades para aplicar e expandir meus conhecimentos práticos.
+## Hi , I'm Higor Vicente
 
-##Minhas Habilidades: [
+👋 Sou estudante de Ciência da Computação com foco em desenvolvimento de software. Tenho uma forte paixão por programação e estou em busca de oportunidades para aplicar e expandir meus conhecimentos práticos.
+
+## Minhas Habilidades: [
 	Java,
 	APIs RESTful,
 	Spring Boot,
@@ -13,10 +15,9 @@
 	MySQL,
 	Git,
 	Postman,
-	Maven
-];
+	Maven ];
 
-Estudando: [
+## Estudando: [
 	AWS(S3, EC2, RDS),
 	Docker,
 	CI/CD,
@@ -25,4 +26,5 @@ Estudando: [
 	Mockito,
 	Design Patterns,
 	Microservices,
-	NoSQL];
+	NoSQL ];
+[LinkedIn](www.linkedin.com/in/higor-vicente-34a782251)
