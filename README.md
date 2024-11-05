@@ -24,6 +24,8 @@
 	Teste de Software(Integração, Unitários..),
 	JUnit,
 	Mockito,
+        RabbitMQ,
+        Kubernetes,
 	Design Patterns,
 	Microservices,
 	NoSQL ];
